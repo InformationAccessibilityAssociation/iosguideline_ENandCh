@@ -2371,5 +2371,6 @@ table.specbox {
 	width:230px;
 }
 .english{
-	border:2px solid #1d87ff;
+	border-left:4px solid #1d87ff;
+	padding-left:5px;
 }
